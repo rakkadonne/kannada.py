@@ -99,17 +99,17 @@ This project provides a dictionary that maps Kannada keywords to their equivalen
 ### How to Write Python in Kannada:
 
 1. Download `kannada.py` or clone the repo at [kannada.py](https://github.com/rakkadonne/kannada.py).
-2. Write Kannada Python code using the Kannada Python dictionary as a manual.
-3. Save the file with a `.esspy` extension.
+2. Write Kannada Python code using the Kannada dictionary as a manual.
+3. Save the file with a `.kaypy` extension.
 4. Run the command:
 
    ```bash
-   python <path_to_kannada.py> <path_to_.esspy_file>
+   python <path_to_kannada.py> <path_to_.kaypy_file>
 ---
 
 ### Some Important Details
 
-1. Can **create modules in Kannada Python** and import them in other `.esspy` files.
+1. Can **create modules in Kannada Python** and import them in other `.kaypy` files.
 
 2. Can **import from standard or custom Python modules** as usual — the tool does not block or interfere with native imports.
 
